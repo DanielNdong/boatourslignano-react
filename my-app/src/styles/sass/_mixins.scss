@@ -1,0 +1,10 @@
+@mixin roleButton {
+  padding: 1rem;
+  background-color: $rojo2;
+  color: $blanco2;
+  border-radius: 10rem;
+  -webkit-border-radius: 10rem;
+  -moz-border-radius: 10rem;
+  -ms-border-radius: 10rem;
+  -o-border-radius: 10rem;
+}
